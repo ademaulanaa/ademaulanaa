@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ##### My Social media
 
-![https://instagram.com/maulanaaae_]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+![https://instagram.com/maulanaaae_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://tiktok.com/maulanaaae_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://www.linkedin.com/in/maulanaaae_/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
 
 
 
