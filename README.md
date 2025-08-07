@@ -1,5 +1,5 @@
-## Hello World I'm Ade Maulana 👋
-
+## Hello World I'm Ade Maulana,S.Kom 👋
+#### S1 Computer Science
 <!--
 **ademaulanaa/ademaulanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
 
 
 
