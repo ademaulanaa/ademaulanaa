@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maulanaaae_)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maulanaaae_?_t=ZS-8ycslDuZej3&_r=1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanaaae_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademaulana12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,laravel,wordpress)](https://skillicons.dev) 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
 
 
 
